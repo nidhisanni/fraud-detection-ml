@@ -1,0 +1,1 @@
+["step", "amount", "amount_scaled", "oldbalanceOrg", "newbalanceOrig", "oldbalanceDest", "newbalanceDest", "balance_diff_orig", "balance_diff_dest", "balance_zero_orig", "balance_zero_dest", "orig_is_merchant", "dest_is_merchant", "CASH_OUT", "DEBIT", "PAYMENT", "TRANSFER"]
